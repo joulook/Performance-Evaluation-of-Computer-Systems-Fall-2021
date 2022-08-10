@@ -38,24 +38,24 @@ The system was simulated under 10 Million customer requests for Lambda in [0.1,2
 
 ###### P_b Diagram for Fixed Waiting Time
 
+| <img src="06.png" alt="Pair Game" width="600"/> | 
+|:--:| 
+| *06* |
+
+###### P_d Diagram for Fixed Waiting Time
+
+| <img src="07.png" alt="Pair Game" width="600"/> | 
+|:--:| 
+| *07* |
+
+###### P_d of Type 1 requests Diagram for Fixed Waiting Time
+
 | <img src="08.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *08* |
 
-###### P_d Diagram for Fixed Waiting Time
+###### P_d Type 2 requests Diagram for Fixed Waiting Time
 
 | <img src="09.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *09* |
-
-###### P_d of Type 1 requests Diagram for Fixed Waiting Time
-
-| <img src="10.png" alt="Pair Game" width="600"/> | 
-|:--:| 
-| *10* |
-
-###### P_d Type 2 requests Diagram for Fixed Waiting Time
-
-| <img src="11.png" alt="Pair Game" width="600"/> | 
-|:--:| 
-| *11* |
