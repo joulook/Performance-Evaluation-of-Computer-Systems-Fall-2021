@@ -1,6 +1,6 @@
-# Simulation of M/M/1/K Queue with an a Processor Sharing Service Order
+# Simulation of M/M/1/K Queue with a Processor Sharing Service Order
 
-My 2nd project was in the "Performance Evaluation of Computer Systems" course when I was in the 3rd semester of my master's at SUT. In this project, I simulated an M/M/1/K queue(length = 12) with aa Processor Sharing Service Order and compared its results with analytical methods. There are two assumptions for the waiting time function (Theta), Fixed and Exponential. In sum, this simulation gives us The possibility of blocked requests(P_b) and the possibility of missed deadline requests(P_b).
+My 2nd project was in the "Performance Evaluation of Computer Systems" course when I was in the 3rd semester of my master's at SUT. In this project, I simulated an M/M/1/K queue(length = 12) with a Processor Sharing Service Order and compared its results with analytical methods. There are two assumptions for the waiting time function (Theta), Fixed and Exponential. In sum, this simulation gives us The possibility of blocked requests(P_b) and the possibility of missed deadline requests(P_b).
 
 ## Analytical formulas
 
