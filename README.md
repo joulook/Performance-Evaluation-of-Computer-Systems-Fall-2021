@@ -6,6 +6,6 @@ My projects list for this course:
 
 | Project titles  | Details |
 | ------------- | ------------- |
-| Simulation of M/M/1/K Queue with FCFS Service Order | Queuing Theory/Java  |
-| Simulation of M/M/1/K Queue with Processor Sharing Service Order | Queuing Theory/Java  |
-| Simulation of M/M/1/K Queue with Discriminatory Processor Sharing Service Order | Queuing Theory/Java |
+| Simulation of M/M/1/K Queue with an FCFS Service Order | Queuing Theory/Java  |
+| Simulation of M/M/1/K Queue with a Processor Sharing Service Order | Queuing Theory/Java  |
+| Simulation of M/M/1/K Queue with a Discriminatory Processor Sharing Service Order | Queuing Theory/Java |
