@@ -23,24 +23,24 @@ The system was simulated under 10 Million customer requests for Lambda in [0.1,2
 
 ###### P_b Diagram for Exponential Waiting Time
 
-| <img src="06.png" alt="Pair Game" width="600"/> | 
+| <img src="04.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *06* |
 
 ###### P_d Diagram for Exponential Waiting Time
 
-| <img src="07.png" alt="Pair Game" width="600"/> | 
+| <img src="05.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *07* |
 
 ###### P_b Diagram for Fixed Waiting Time
 
-| <img src="08.png" alt="Pair Game" width="600"/> | 
+| <img src="06.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *08* |
 
 ###### P_d Diagram for Fixed Waiting Time
 
-| <img src="09.png" alt="Pair Game" width="600"/> | 
+| <img src="07.png" alt="Pair Game" width="600"/> | 
 |:--:| 
 | *09* |
